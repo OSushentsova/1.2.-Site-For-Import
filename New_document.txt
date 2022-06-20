@@ -1,4 +1,6 @@
 print("Hello World!";)
 print("Hello Everybody!!!";)
-new chenges
+print("Hello my dear friend!";)
+print("Glad to see you!")
+
 
